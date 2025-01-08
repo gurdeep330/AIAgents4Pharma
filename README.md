@@ -1,6 +1,6 @@
 [![TESTS](https://github.com/VirtualPatientEngine/AIAgents4Pharma/actions/workflows/tests.yml/badge.svg?branch=feat%2Finitial-setup)](https://github.com/VirtualPatientEngine/AIAgents4Pharma/actions/workflows/tests.yml)
 
-<h1 align="center" style="border-bottom: none;">🤖 AIAgents4Pharma VPE</h1>
+<h1 align="center" style="border-bottom: none;">🤖 AIAgents4Pharma</h1>
 
 Welcome to **AIAgents4Pharma** – an open-source project by [Team VPE](https://github.com/VirtualPatientEngine) that brings together AI-driven tools to help researchers and pharma interact seamlessly with complex biological data.
 
